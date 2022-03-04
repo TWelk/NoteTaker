@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 const db = require(path.join(__dirname, "db", "db.json"));
-let PORT = 3001;
+let PORT = process.env.PORT || 3001;
 let app = express();
 const fs = require('fs');
 const { dirname } = require("path");
