@@ -29,6 +29,6 @@ When web page opens click the notes button and you will be brought to another pa
 ## Demo Link
 * [VideoDemoLink]()
 ## Live Application
-* https://git.heroku.com/floating-mesa-65516.git
+* https://floating-mesa-65516.herokuapp.com/
 ## Github Repo
 * https://github.com/TWelk/NoteTaker
