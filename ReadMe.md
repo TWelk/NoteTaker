@@ -25,9 +25,9 @@ When web page opens click the notes button and you will be brought to another pa
 * [gitHubLink](https://github.com/TWelk)
 * <a href="mailto:it-support@kth.se">Twelker08@gmail.com</a>
 ## Demo GIF
-![DemoVideo](./Assets/Images/notetaker.gif)
+![DemoVideo](./public/assets/images/notetaker.gif)
 ## Demo Link
-* [VideoDemoLink]()
+* [VideoDemoLink](https://youtu.be/lTYwVSbbfPU)
 ## Live Application
 * https://floating-mesa-65516.herokuapp.com/
 ## Github Repo
