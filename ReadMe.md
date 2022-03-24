@@ -25,7 +25,7 @@ When web page opens click the notes button and you will be brought to another pa
 * [gitHubLink](https://github.com/TWelk)
 * <a href="mailto:it-support@kth.se">Twelker08@gmail.com</a>
 ## Demo GIF
-![DemoVideo](./public/assets/images/notetaker.gif)
+![DemoVideo](./public/assets/images/NoteTaker.gif)
 ## Demo Link
 * [VideoDemoLink](https://youtu.be/lTYwVSbbfPU)
 ## Live Application
