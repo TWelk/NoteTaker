@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Did you know?",
+    "text": "the first person convicted of speeding was going eight mph.",
+    "id": 1
+  },
+  {
+    "title": "Did you know?",
+    "text": " the first American rollercoaster was originally used to transport coal down a hill after people found that it could reach 50mph tourists asked if they could ride in it for a few cents.",
+    "id": 2
+  },
+  {
+    "title": "Did you know?",
+    "text": "Blink-182 decided to incorporate their band under the name poo poo butt llc as they thought it would be funny to hear accounts to use their name in important conversations on a daily basis. ",
+    "id": 3
+  }
+]
