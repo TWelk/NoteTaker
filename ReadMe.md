@@ -21,8 +21,8 @@ I would like to thank [Jason](https://github.com/jasonjayoo) and [Marcus](https:
 MIT
 ## Future Development
 I would like to add:
-  -Login based feature
-  -Share notes feature
+-Login based feature
+-Share notes feature
 ## How to Contribute
 if you wish to contribute, please reach out to Twelk.
 ## Tests
