@@ -17,7 +17,6 @@ No installation, just go to the live site provided below.
 When web page opens click the notes button and you will be brought to another page. click the plus sign to start new note, title it and then start taking notes. when done click the save button icon and your new note will appear on the left.
 ## Credits
 I would like to thank [Jason](https://github.com/jasonjayoo) and [Marcus](https://github.com/lewisemarcus) for their assistance with troubleshooting and deploying to Heroku.
-TWelk
 ## License
 MIT
 ## How to Contribute
