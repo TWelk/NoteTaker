@@ -9,6 +9,8 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Questions](#questions)
+- [Demonstration](#demonstration)
 ## Installation
 No installation, just go to the live site provided below.
 ## Usage
@@ -27,8 +29,8 @@ Contact TWelk at GitHub or by email:
 * [Email](mailto:Twelker08@gmail.com)
 ## Demo GIF
 ![DemoVideo](./public/assets/images/NoteTaker.gif)
-## Demo Link
-* [VideoDemoLink](https://youtu.be/lTYwVSbbfPU)
+## Demonstration
+* [Demonstration](https://youtu.be/lTYwVSbbfPU)
 ## Live Application
 * https://floating-mesa-65516.herokuapp.com/
 ## Github Repo
