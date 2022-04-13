@@ -22,8 +22,9 @@ if you wish to contribute, please reach out to Twelk.
 ## Tests
 When web page opens click the notes button and you will be brought to another page. click the plus sign to start new note, title it and then start taking notes. when done click the save button icon and your new note will appear on the left.
 ## Questions
-* [gitHubLink](https://github.com/TWelk)
-* <a href="mailto:it-support@kth.se">Twelker08@gmail.com</a>
+Contact TWelk at GitHub or by email:
+* [GitHub](https://github.com/TWelk)
+* [Email](mailto:Twelker08@gmail.com)
 ## Demo GIF
 ![DemoVideo](./public/assets/images/NoteTaker.gif)
 ## Demo Link
