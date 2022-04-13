@@ -19,6 +19,10 @@ When web page opens click the notes button and you will be brought to another pa
 I would like to thank [Jason](https://github.com/jasonjayoo) and [Marcus](https://github.com/lewisemarcus) for their assistance with troubleshooting and deploying to Heroku.
 ## License
 MIT
+## Future Development
+I would like to add:
+  -Login based feature
+  -Share notes feature
 ## How to Contribute
 if you wish to contribute, please reach out to Twelk.
 ## Tests
