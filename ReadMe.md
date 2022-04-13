@@ -12,6 +12,10 @@
 - [Questions](#questions)
 - [Demonstration](#demonstration)
 ## Installation
+If you wish to install:
+- Clone the repo
+- Run `npm i` in the terminal to install all node packages
+- 
 No installation, just go to the live site provided below.
 ## Usage
 When web page opens click the notes button and you will be brought to another page. click the plus sign to start new note, title it and then start taking notes. when done click the save button icon and your new note will appear on the left.
