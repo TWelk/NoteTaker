@@ -32,6 +32,6 @@ Contact TWelk at GitHub or by email:
 ## Demonstration
 * [Demonstration](https://youtu.be/lTYwVSbbfPU)
 ## Live Application
-* https://floating-mesa-65516.herokuapp.com/
+* [Live App](https://floating-mesa-65516.herokuapp.com/)
 ## Github Repo
-* https://github.com/TWelk/NoteTaker
+* 
