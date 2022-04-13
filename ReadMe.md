@@ -9,6 +9,7 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Future Development](#future-development)
 - [Questions](#questions)
 - [Demonstration](#demonstration)
 ## Installation
