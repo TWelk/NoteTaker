@@ -34,4 +34,4 @@ Contact TWelk at GitHub or by email:
 ## Live Application
 * [Live App](https://floating-mesa-65516.herokuapp.com/)
 ## Github Repo
-* 
+* [Repo](https://github.com/TWelk/NoteTaker)
